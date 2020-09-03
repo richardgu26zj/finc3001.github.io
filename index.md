@@ -1,3 +1,5 @@
+## Money and Banking Course Web Page
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/richardgu26zh/finc3001.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
