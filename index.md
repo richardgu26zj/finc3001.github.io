@@ -9,7 +9,8 @@
 
 ### Recommended Textbooks
 1. 钱水土，《货币金融学（第3版）》，机械工业出版社，2020年
-2. 
+2. Frederic Mishkin, **_The Economics of Money, Banking and Financial Markets_**(11 edition),
+
 
 
 ## Welcome to GitHub Pages
