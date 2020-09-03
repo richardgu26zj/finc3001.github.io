@@ -3,7 +3,7 @@
 ### Course Instructor Information
 
 -  Course instructor: Gu, Xin
--  Email: [richardgu26@zjgsu.edu.cn]
+-  Email: richardgu26@zjgsu.edu.cn
 -  Office hours: by appointment
 -  Office room: Room 840
 
