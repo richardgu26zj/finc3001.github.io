@@ -1,4 +1,16 @@
-## Money and Banking Course Web Page
+## FIN122 Money and Banking
+
+### Course Instructor Information
+
+-  Course instructor: Gu, Xin
+-  Email: [richardgu26@zjgsu.edu.cn]
+-  Office hours: by appointment
+-  Office room: Room 840
+
+### Recommended Textbooks
+1. 钱水土，《货币金融学（第3版）》，机械工业出版社，2020年
+2. 
+
 
 ## Welcome to GitHub Pages
 
