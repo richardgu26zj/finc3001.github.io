@@ -1,1 +1,1 @@
-# finc3001.github.io
+# Money and Banking 2020 Fall Semester
